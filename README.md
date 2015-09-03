@@ -1,5 +1,4 @@
 # NYC 311 Complaints
-=================
 Projects created while I played around with 311 complaints data from NYC OpenData portal, which involve working with huge CSVs on command line, IPython Notebook and Pandas. 
 
 # Pojects
